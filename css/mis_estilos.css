@@ -1,0 +1,55 @@
+#pestanas {
+    float: top;
+    font-size: 2.5ex;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+#pestanas ul{
+    margin-left: -40px;
+}
+
+/* #pestanas li{ */
+#pestana1 {
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0px 0px 0px 0px;
+    background: #f0ad4e;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 2px solid #eea236;
+    border-bottom: #eea236;
+    padding: 0px 20px 0px 20px;
+    width: 250px;
+}
+
+#pestana2 {
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0px 2px -2px -0px;
+    background: #5bc0de;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 2px solid #46b8da;
+    border-bottom: #46b8da;
+    padding: 0px 20px 0px 20px;
+    width: 250px;
+}
+
+/* #pestanas a:link{
+    text-decoration: none;
+    color: white;
+} */
+
+.bg-negrita {
+  font-weight: bold;
+}
+
+
+.border-pdf{
+  border: solid 1px gray;
+}

@@ -1,0 +1,93 @@
+.alert-jcr {
+  color: #fefefe;
+  background-color: #007FA1;
+  border-color: #007FA1;
+}
+.alert-jcr hr {
+  border-top-color: #a6e1ec;
+}
+.alert-jcr .alert-link {
+  color: #245269;
+}
+
+.btn-editar {
+  color: #fff;
+  background-color: #FFB300;
+  border-color: #FFB300;
+}
+.btn-editar:focus,
+.btn-editar.focus {
+  color: #fff;
+  background-color: #ec971f;
+  border-color: #985f0d;
+}
+.btn-editar:hover {
+  color: #fff;
+  background-color: #ec971f;
+  border-color: #d58512;
+}
+
+.btn-home {
+  color: #fff;
+  background-color: #007FA1;
+  border-color: #007FA1;
+}
+.btn-home:focus,
+.btn-home.focus {
+  color: #fff;
+  background-color: #007FA1;
+  border-color: #007FA1;
+}
+.btn-home:hover {
+  color: #fff;
+  background-color: #005FA1;
+  border-color: #005FA1;
+}
+
+.btn-home1 {
+  color: black;
+  background-color: white;
+  border-color: transparent;
+}
+
+.btn-home1:hover {
+  color: #00ABFF;
+  background-color: white;
+  border-color: white;
+}
+
+
+.logingestor {
+  font-size: 24px;
+  color: #0059a1;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+}
+.headgestor {
+  font-size: 24px;
+  color: #0059a1;
+  font-family: 'Lato', sans-serif;
+  font-weight: bold;
+  text-align: right;
+}
+.titulo {
+  font-size: 14px;
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  text-align: right;
+}
+
+.bordeando{
+
+border-radius: 33px 33px 33px 33px;
+-moz-border-radius: 33px 33px 33px 33px;
+-webkit-border-radius: 33px 33px 33px 33px;
+border: 0px solid #000000;
+}
+
+.navegador{
+
+font-weight: normal;
+font-size: 12px;
+}
