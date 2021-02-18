@@ -13,7 +13,7 @@
 					<button id = "show_admin" type = "button" style = "display:none;" class = "btn btn-primary"><span class = "glyphicon glyphicon-circle-arrow-left"></span> Volver</button>
 					<br />
 					<br />
-					
+					<!-- prueba de rama -->
 					<div id = "admin_table">
 					<label>Descargar</label>
 						<table id = "table" class = "table table-bordered table-hover" style="100%">
